@@ -1,0 +1,13 @@
+{
+  "sections": [
+    {
+      "id": "general",
+      "title": "General Information",
+      "fields": [
+        { "id": "country", "label": "Country", "type": "select", "source": "countries", "width": 200 },
+        { "id": "currency", "label": "Currency", "type": "select", "source": "currency", "width": 120 },
+        { "id": "offering", "label": "Offering", "type": "select", "source": "offering", "width": 220 }
+      ]
+    }
+  ]
+}
